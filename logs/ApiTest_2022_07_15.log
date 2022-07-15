@@ -1,0 +1,16 @@
+[2022-07-15 16:01:45,767] get_access_token_cases.py->test_appid_error line:40 [INFO] : 当appid错误时的错误码与预期一致
+[2022-07-15 16:01:46,113] get_access_token_cases.py->test_get_access_token line:29 [INFO] : 获取token成功
+[2022-07-15 16:08:52,052] get_access_token_cases.py->test_appid_error line:42 [INFO] : 当appid错误时的错误码与预期一致
+[2022-07-15 16:08:52,446] get_access_token_cases.py->test_get_access_token line:30 [INFO] : 获取token成功
+[2022-07-15 21:10:16,854] get_access_token_cases.py->test_appid_error line:34 [INFO] : 当appid错误时的错误码时
+[2022-07-15 21:12:17,947] get_access_token_cases.py->test_appid_error line:35 [INFO] : 当appid错误时的错误码时
+[2022-07-15 21:18:41,730] get_access_token_cases.py->test_appid_error line:35 [INFO] : 当appid错误时的错误码时
+[2022-07-15 21:18:42,108] get_access_token_cases.py->test_get_access_token line:27 [INFO] : 获取token
+[2022-07-15 21:25:13,087] get_access_token_cases.py->test_appid_error line:35 [INFO] : 当appid错误时的错误码时
+[2022-07-15 21:25:13,527] get_access_token_cases.py->test_get_access_token line:27 [INFO] : 获取token
+[2022-07-15 21:27:18,335] get_access_token_cases.py->test_appid_error line:35 [INFO] : 当appid错误时的错误码时
+[2022-07-15 21:27:18,725] get_access_token_cases.py->test_get_access_token line:27 [INFO] : 获取token
+[2022-07-15 21:28:21,283] get_access_token_cases.py->test_appid_error line:35 [INFO] : 当appid错误时的错误码时
+[2022-07-15 21:28:21,646] get_access_token_cases.py->test_get_access_token line:27 [INFO] : 获取token
+[2022-07-15 21:29:35,011] get_access_token_cases.py->test_appid_error line:35 [INFO] : 当appid错误时的错误码时
+[2022-07-15 21:29:35,378] get_access_token_cases.py->test_get_access_token line:27 [INFO] : 获取token
